@@ -1,0 +1,2 @@
+C:\Users\David\source\repos\asp_net\SesionesUsuario\obj\Debug\SesionesUsuario.csprojAssemblyReference.cache
+C:\Users\David\source\repos\asp_net\SesionesUsuario\obj\Debug\SesionesUsuario.csproj.CoreCompileInputs.cache
